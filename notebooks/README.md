@@ -1,1 +1,2 @@
-eric_data_prep.ipynb details the ERIC data used to pre-train the embedded topic model. edOJS.ipynb details the held-out application set of unknown education articles published using Open Journal Systems (OJS).
+eric_data_prep.ipynb details the ERIC data used to pre-train the embedded topic model. 
+edOJS.ipynb details the held-out application set of unknown education articles published using Open Journal Systems (OJS).
