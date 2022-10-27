@@ -63,3 +63,5 @@ pyLDAvis.save_html(LDAvis_prepared, './ojs_ldavis_prepared_'+ str(num_topics) +'
 
 LDAvis_prepared
 # %%
+## show topics
+lda_model.show_topics(num_words=25)
