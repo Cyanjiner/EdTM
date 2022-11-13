@@ -1,2 +1,2 @@
 # EdTM
-Embedded Topic Model for Education Text
+Assessing Topic Models for Education Text
