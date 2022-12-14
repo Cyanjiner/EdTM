@@ -1,2 +1,2 @@
 # EdTM
-Assessing Topic Models for Education Text
+Topic Collapsing in Embedding Spaces: An Application to Education Text
