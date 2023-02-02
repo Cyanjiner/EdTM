@@ -5,3 +5,5 @@
 
 -   **AUTHORs:** Jiner Zheng, Jon Ball
 
+
+[Final Paper](https://github.com/Cyanjiner/EdTM/blob/main/Topic_Collapsing_in_Embedding_Spaces.pdf)
