@@ -3,5 +3,5 @@
 ## DESCRIPTION:
 <img src="cs229-poster-EdTM.pptx.jpg" align="right" />
 
--   **AUTHOR:** Jiner Zheng, Jon Ball
+-   **AUTHORs:** Jiner Zheng, Jon Ball
 
